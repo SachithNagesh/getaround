@@ -1,8 +1,8 @@
-# Event Management Application
+# Getaround - Event Management Application
 
 ![Untitled design (1)](https://user-images.githubusercontent.com/46007043/56611789-b1b4b300-65e0-11e9-9a31-8c8ddc9e83da.png)
 
-## What is our project about?
+## What the project about?
 Getaround is a simple and easy to use option for event planning and registering. We make use of the EventBrite API to get the events dynamically on our website , which helps us get worldwide events and keeps our website up to date with the events.
 
 ### Backend
